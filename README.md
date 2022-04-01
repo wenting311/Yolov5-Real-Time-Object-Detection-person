@@ -33,4 +33,4 @@ docker run -p 5000:5000 yolov5-flask:latest
 - https://github.com/ultralytics/yolov5
 - https://github.com/jzhang533/yolov5-flask
 - https://github.com/avinassh/pytorch-flask-api-heroku
-"# Yolov5-Real-Time-Object-Detection-person" 
+

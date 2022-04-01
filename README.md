@@ -11,7 +11,7 @@ This repo contains example apps for exposing the [yolo5](https://github.com/ultr
 ## Web app
 Simple app that enables live webcam detection using pretrained YOLOv5s weights and see real time inference result of the model in the browser.
 
-![yolov5-real-time](https://user-images.githubusercontent.com/69728128/156182901-98c58df9-d23f-4e92-a4aa-7a9d9dc8ba67.JPG)
+![yolov5-real-time]
 
 ## Run & Develop locally
 Run locally and dev:
